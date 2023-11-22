@@ -244,6 +244,15 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 """
 *************************************
+    Authentication Custom User Model
+*************************************
+"""
+
+AUTH_USER_MODEL = "app_admin.User"
+
+
+"""
+*************************************
             Rest Frame Work
 *************************************
 """

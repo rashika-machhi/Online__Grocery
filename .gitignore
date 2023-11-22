@@ -1,1 +1,3 @@
 .env
+app_shop/__pycache__/
+app_admin/__pycache__/
